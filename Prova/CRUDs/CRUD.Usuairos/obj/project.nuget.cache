@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyDtFyC5goh4ZnA5Z91jy2MWUvAImiFlgqMQFyLL4U20SQrr89G6+cO7+q6b3hQOXi763XjEVzJ5Rru4mWwyRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefany\\Documents\\gitasp\\aa\\AspIfsp\\Prova\\CRUDs\\CRUD.Usuairos\\CRUD.Usuairos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefany\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
